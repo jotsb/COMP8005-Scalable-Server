@@ -1,0 +1,32 @@
+e_svr
+
+[===========================================]
+[ Total Clients Connected: 18000
+[ Total Bytes Received: 423780352
+[ Total Active Clients: 0
+[===========================================]
+
+[===========================================]
+[ Total Clients Connected: 20024
+[ Total Bytes Received: 874512384
+[ Total Active Clients: 0
+[===========================================]
+
+
+
+s_svr
+
+[===========================================]
+[ Total Clients Connected: 18000
+[ Total Bytes Received: 424083456
+[ Total Active Clients: 0
+[===========================================]
+
+
+thread_svr
+
+[===========================================]
+[ Total Host Connections: 3000
+[ Total Bytes Received: 765000
+[ Total Active Clients: 0
+[===========================================]
