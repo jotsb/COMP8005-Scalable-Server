@@ -1,17 +1,16 @@
 COMP8505-Scalable-Server
 ========================
 
-Objective
-
+###Objective
 To compare the scalability and performance of the multi-threaded, select and e-poll based client-server implementations.
 
-Assignment Requirements
-
+###Assignment Requirements
 The goal of this assignment is to design and implement three separate servers:
-1. A multi-threaded, traditional server
-2. A select (level-triggered) multiplexed server
-3. An e-poll (edge-triggered) asynchronous server
+1. A multi-threaded, traditional server <br />
+2. A select (level-triggered) multiplexed server <br />
+3. An e-poll (edge-triggered) asynchronous server <br />
 
+###Constraints
 Each server will be designed to handle multiple connections and transfer a specified amount of data to the connected client.
 
 Each server must be designed to handle multiple connections and transfer a specified amount of data to the connected client.
